@@ -1,0 +1,17 @@
+body {
+
+    color: #0003ac;
+}
+
+
+
+.jumbotron {
+    background-image: url("../images/81Z-X7OjlvL._AC_SL1500_.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+@font-face {
+    font-family: font;
+    src: url('../../Like Snow.ttf');
+}
